@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./header.css";
+import "./Header.css";
 import { RiMenu2Fill } from "react-icons/ri";
 
 const Header = () => {
